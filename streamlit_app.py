@@ -11,9 +11,7 @@ history_app.py — 歷史測驗網頁（Streamlit Cloud + Firebase）
 
 部署 Secrets：同 chinese_app.py 的 [firebase] 區塊
 GITHUB_RAW_BASE 改成你的歷史題庫 repo
-"""
 
-"""
 history_app.py — 歷史測驗網頁（Streamlit Cloud + Firebase）
 難度：國中、高中
 
